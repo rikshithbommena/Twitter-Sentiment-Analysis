@@ -7,7 +7,7 @@ The goal is to analyze sentiment trends, identify factors influencing tweet popu
 
 ### 📄 Key Columns:
 
-TweetID: Unique tweet identifier
+-TweetID: Unique tweet identifier
 
 text: Actual tweet content
 
