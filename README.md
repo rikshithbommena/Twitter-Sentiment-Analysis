@@ -4,10 +4,11 @@ The goal is to analyze sentiment trends, identify factors influencing tweet popu
 
 ### 🗃️ Dataset Description
    📦 Total Records: 206,295
+   
 
-### 📄 Key Columns:
+## 📄 Key Columns:
 
--TweetID: Unique tweet identifier
+TweetID: Unique tweet identifier
 
 text: Actual tweet content
 
@@ -23,7 +24,8 @@ Weekday, Hour, Day: Temporal metadata
 
 LocationID, UserID: Location and user identifiers
 
-### 🛠️ Tools & Technologies Used
+
+## 🛠️ Tools & Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook
@@ -34,7 +36,8 @@ Matplotlib & Seaborn for data visualization
 
 Git & GitHub for version control
 
-### 🔁 Project Workflow
+
+## 🔁 Project Workflow
 Data Cleaning: Handled null values, type mismatches, and unnecessary columns
 
 Exploratory Data Analysis (EDA): Analyzed tweet trends by day, hour, language, etc.
@@ -49,7 +52,8 @@ Insights Extraction: Derived trends and patterns based on sentiment and engageme
 ![Screenshot (505)](https://github.com/user-attachments/assets/bfed042a-e905-439f-b996-003468e6cbc6)
 
 
-### 📈 Key Insights
+
+## 📈 Key Insights
 Tweets in English (en) dominate the dataset
 
 Positive and neutral sentiments are more frequent than negative ones
@@ -58,7 +62,8 @@ Reshared tweets tend to have higher reach and retweet count
 
 Sentiment varies significantly by the time of day and day of the week
 
-### ✅ Final Conclusion
+
+## ✅ Final Conclusion
 The sentiment analysis reveals valuable trends in public opinions and emotional reactions on Twitter. Understanding this data can help brands, marketers, and researchers anticipate audience response, tailor content strategies, and even monitor public sentiment in real-time.
 
 
