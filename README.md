@@ -2,8 +2,10 @@
 
 The goal is to analyze sentiment trends, identify factors influencing tweet popularity, and extract insights based on the language, time, and engagement metrics of tweets. This helps in understanding how emotions propagate on social platforms and how they vary with context.
 
+
 ### 🗃️ Dataset Description
    📦 Total Records: 206,295
+   
    
 
 ## 📄 Key Columns:
@@ -25,6 +27,7 @@ Weekday, Hour, Day: Temporal metadata
 LocationID, UserID: Location and user identifiers
 
 
+
 ## 🛠️ Tools & Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -35,6 +38,7 @@ NLTK / TextBlob / Scikit-learn for NLP & sentiment scoring
 Matplotlib & Seaborn for data visualization
 
 Git & GitHub for version control
+
 
 
 ## 🔁 Project Workflow
@@ -48,7 +52,8 @@ Visualization: Plotted sentiments vs. tweet popularity, language-wise sentiment,
 
 Insights Extraction: Derived trends and patterns based on sentiment and engagement metrics
 
-##Report
+
+## Report
 ![Screenshot (505)](https://github.com/user-attachments/assets/bfed042a-e905-439f-b996-003468e6cbc6)
 
 
@@ -61,6 +66,7 @@ Positive and neutral sentiments are more frequent than negative ones
 Reshared tweets tend to have higher reach and retweet count
 
 Sentiment varies significantly by the time of day and day of the week
+
 
 
 ## ✅ Final Conclusion
